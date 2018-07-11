@@ -1,0 +1,22 @@
+#title{
+    text-align: center;
+    font-size: 250%;
+    background-color: black;
+    color: white;
+    padding: 0.3%;
+    margin-top: 0em;
+}
+div#wrapper{
+    display: flex;
+    flex-direction: row;
+    
+}
+#castle_team{
+    padding-left: 15%;
+}
+div#profile{
+    padding-left: 15%;
+}
+div#picture{
+    padding-left: 15%;
+}
